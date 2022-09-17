@@ -1,6 +1,6 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
-const PREFIX = 'online-code-editor-';
+const PREFIX = "quick-feature";
 
 const useLocaleStorage = (key: string, initialValue: any) => {
   const prefixedKey = PREFIX.concat(key);
@@ -10,7 +10,7 @@ const useLocaleStorage = (key: string, initialValue: any) => {
 
     if (jsonValue != null) return JSON.parse(jsonValue);
 
-    if (typeof initialValue === 'function') return initialValue();
+    if (typeof initialValue === "function") return initialValue();
 
     return initialValue;
   });

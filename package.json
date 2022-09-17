@@ -1,8 +1,8 @@
 {
   "name": "online-code-editor",
   "version": "0.1.0",
-  "homepage": "https://yuzumi.github.io/online-code-editor",
-  "description": "Code editor created with React and Codemirror",
+  "homepage": "",
+  "description": "Quick feature is a code editor created with React and Codemirror",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
