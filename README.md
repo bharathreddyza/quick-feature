@@ -1,15 +1,6 @@
-## Available Scripts
+## Quick feature
 
-In the project directory, you can run:
+A simple frontend tool to prototype using HTML,CSS and javscript
+similar to code.io
 
-### `npm start`
-
-Runs the app in the development mode.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.
+#Built using Typescript,react
